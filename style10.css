@@ -47,7 +47,7 @@
 }
 
 .step-number {
-	font-size: 15px;
+	font-size: 18px;
 	padding: 2px;
 	position: absolute;
 	top: 0;
@@ -64,7 +64,6 @@ h1 {
 @media screen and (max-width: 768px) {
 	.step-wrapper {
 		width: 100%;
-		margin: 50px 0 0 0;
 	}
 
 	.step-box {
@@ -78,9 +77,7 @@ h1 {
 	}
 
 	.step-box:last-child {
-		width: 90%;
 		margin: 0 auto;
-		margin-bottom: 50px;
 	}
 
 	.step-img1, .step-img2, .step-img3 {
